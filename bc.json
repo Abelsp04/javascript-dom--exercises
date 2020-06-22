@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://adee4850-68ee-456b-b5a5-ce5627e704b3.ws-us02.gitpod.io",
+    "address": "https://fcce45ce-e232-46fa-8ef9-c174db8ce93c.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -127,7 +127,7 @@
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Remove-DOM-Element-part-two",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "es",
