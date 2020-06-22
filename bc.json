@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://cfa48735-2d2b-4e54-a164-96ca2ba098b1.ws-us02.gitpod.io",
+    "address": "https://adee4850-68ee-456b-b5a5-ce5627e704b3.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -83,7 +83,7 @@
         {
             "slug": "05-Create-DOM-Element-First",
             "title": "05-Create-DOM-Element-First",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Create-DOM-Element-First",
             "translations": [
                 "es",
@@ -94,7 +94,7 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "es",
@@ -105,7 +105,7 @@
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Create-DOM-list-of-li",
             "translations": [
                 "es",
